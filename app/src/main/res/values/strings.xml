@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">a2p2jjgt</string>
+    <string name="isc">ISC</string>
+    <string name="ing_ambiental">ING AMBIENTAL</string>
+    <string name="selecciona_tu_carrera">selecciona tu carrera:</string>
+    <string name="mensaje">MENSAJE</string>
+    <string name="escuela">ESCUELA</string>
+    <string name="itc_s">ITC\'S</string>
+    <string name="casa">CASA</string>
+    <string name="lic_gastronomia">LIC. GASTRONOMIA</string>
+    <string name="trabajo">TRABAJO</string>
+</resources>
